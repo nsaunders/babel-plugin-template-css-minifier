@@ -24,6 +24,7 @@
     "src"
   ],
   "scripts": {
+    "lint": "eslint *.js src test",
     "precommit": "lint-staged",
     "prepare": "husky install",
     "prepublishOnly": "babel src -d cjs",
