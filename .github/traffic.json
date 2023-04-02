@@ -207,5 +207,21 @@
       "uniques": 1,
       "count": 1
     }
+  },
+  {
+    "views": null,
+    "timestamp": "2023-03-26T00:00:00Z",
+    "clones": {
+      "uniques": 4,
+      "count": 5
+    }
+  },
+  {
+    "views": null,
+    "timestamp": "2023-03-27T00:00:00Z",
+    "clones": {
+      "uniques": 2,
+      "count": 2
+    }
   }
 ]
